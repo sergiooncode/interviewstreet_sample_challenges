@@ -75,22 +75,38 @@ Constraints:
 
 Sample Input:
 4
+
 3 3
+
 ...
+
 ...
+
 ...
+
 3 3
+
 .#.
+
 .#.
+
 ...
+
 2 4
+
 .#..
+
 ....
+
 1 1
+
 #
 
 Sample Output:
 17
+
 18
+
 14
+
 0 
