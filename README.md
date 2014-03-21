@@ -29,6 +29,7 @@ T <= 10000
 2 <= K <= N <= 10^9
 
 Sample Input:
+
 6
 
 6 3
@@ -44,6 +45,7 @@ Sample Input:
 40 4
 
 Sample Output:
+
 6
 
 4
@@ -74,6 +76,7 @@ Constraints:
 1 <= M <= 5
 
 Sample Input:
+
 4
 
 3 3
@@ -103,6 +106,7 @@ Sample Input:
 #
 
 Sample Output:
+
 17
 
 18
